@@ -18,8 +18,8 @@ commonAnnotations:
 
 # Centralized image management
 images:
-  - name: manojphaju/frontend
-    newTag: latest
+  - name: piyushsachdeva/frontend
+    newTag: v1
   - name: manojphaju/backend
     newTag: latest
   - name: postgres
